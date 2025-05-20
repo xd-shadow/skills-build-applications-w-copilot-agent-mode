@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-fkvr!&8r_^a^nw-%_c6s6zx#alu6eys+sbikde+)0thc2)+pz@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'crispy-adventure-4gvjv55w5p637v65-8000.app.github.dev']
 
 
 # Application definition
